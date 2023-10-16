@@ -1,0 +1,35 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/users/hal/Dropbox/personal/Emacs/" . "aa-emacs/")
+ ("/users/hal/Dropbox/personal/" . "Emacs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/users/hal/Dropbox/personal/Emacs/aa-emacs/"
+ "/users/hal/Dropbox/personal/Emacs/modules/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "ess-init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/users/hal/Dropbox/personal/Emacs/aa-emacs/" (25901 42414 17323 164000) "themes/" "modules/" ".git/" "README.md" "init.el" "LICENSE" "init.el~" "ido.last" "../" "./")
+
+ ("/users/hal/Dropbox/personal/Emacs/" (25901 42517 996799 423000) "backup/" "init.el" "transient/" "aa-emacs/" ".DS_Store" "ido.last" "../" "./")
+
+ ("/users/hal/Dropbox/personal/" (25901 39768 114007 630000) ".zsh_sessions/" "tmp/" ".emacs.d/" "Emacs/" ".zsh_history" "Projects/" ".DS_Store" "Point Rouge/" "../" "./")
+
+ ("/users/hal/Dropbox/personal/Projects/" (25901 34806 234115 586000) "../" "./")
+
+ ("/users/hal/Dropbox/personal/Emacs/modules/" (25759 3500 791881 524000) "ess-init.el" "tweaks.el" "ido-init.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
